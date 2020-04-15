@@ -1,4 +1,4 @@
-package pertemuan03;
+package String;
 
 public class OperasiString {
     public static void main(String[] args) {
